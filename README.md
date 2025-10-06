@@ -19,8 +19,6 @@
 ---
 
 ## 🌐 Connect With Me  
-
-[![Instagram](https://img.shields.io/badge/Instagram-ff66b2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azrakhann67)  
 [![GitHub](https://img.shields.io/badge/GitHub-800080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azrakhan361)  
 
 ---
